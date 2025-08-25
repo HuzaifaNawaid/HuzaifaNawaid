@@ -62,7 +62,7 @@ I'm a Software Engineering student with a passion for building intelligent solut
 
 <div align="center">
   
-| <a href="https://github-readme-streak-stats.herokuapp.com/?user=huzaifanawaid"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifanawaid&theme=radical" alt="huzaifanawaid" /></a> | <a href="https://github.com/HuzaifaNawaid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaifaNawaid&layout=compact&theme=radical&hide_border=true" /></a> |
+| <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=HuzaifaNawaid&theme=radical&hide_border=true&card_width=400" alt="GitHub Streak" /></a> | <a href="https://github.com/HuzaifaNawaid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaifaNawaid&layout=compact&theme=radical&hide_border=true&card_width=400" alt="GitHub Streak" /></a> |
 | ------------- | ------------- |
 
 </div>
