@@ -21,7 +21,6 @@ I'm a Software Engineering student with a passion for building intelligent solut
 - 📊 Developing skills in **Data Analysis and Visualization**
 - 🔭 Currently Looking for **Internship opportunities**
 - 📫 Reach me at **nawaidhuzaifa@gmail.com**
-- 🌐 Portfolio: **[https://my-portfolio-snowy-theta-32.vercel.app/](https://my-portfolio-snowy-theta-32.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
